@@ -86,7 +86,7 @@ OVERALL ENGAGEMENT STATUS: ✅ 100% COMPLETE
 ## 🧾 Final Report
 
 The full penetration testing report is available here:
-"C:\Users\Welcome\Documents\PENETRATION TESTING REPORT- PAVITHRA.docx"
+
 
 ---
 
@@ -116,14 +116,10 @@ The full penetration testing report is available here:
 **Certifications Pursuing:**
 - Networkwalks Cybersecurity Internship
 - Ethical Hacking
-
 **Connect:**
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-p-202131427/)
-[![GitHub](https://img.shields.io/badge/GitHub-Pavithra-black?logo=github&logoColor=white)]()
- 
-
-
-## 🙏 Acknowledgments
+[![GitHub](https://img.shields.io/badge/GitHub-Pavithra-black?logo=github&logoColor=white)](https://github.com/pavithrap99)
+ ## 🙏 Acknowledgments
 
 - **Networkwalks Academy** – For curating this hands-on internship program
 - **Waqas Karim (CCIE)** – For technical mentorship and industry perspective
