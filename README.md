@@ -118,6 +118,9 @@ The full penetration testing report is available here:
 - Ethical Hacking
 
 **Connect:**
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavithra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-p-202131427/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pavithra-black?logo=github&logoColor=white)]()
+ 
 
 
 ## 🙏 Acknowledgments
