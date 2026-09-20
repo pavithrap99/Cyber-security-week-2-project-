@@ -85,8 +85,9 @@ OVERALL ENGAGEMENT STATUS: ✅ 100% COMPLETE
 
 ## 🧾 Final Report
 
-The full penetration testing report is available here:
+The full penetration testing report is available here
 
+[📥 View / Download Final Report](./Networkwalks_week2/Final%20report%20pavithra/PENETRATION%20TESTING%20REPORT-PAVITHRA.pdf)
 
 ---
 
