@@ -61,12 +61,12 @@ Conduct a comprehensive external reconnaissance engagement against networkwalks.
 |DNSSEC not enabled	|Informational	|DNS spoofing risk (theoretical)|
 |4 live hosts (Lab)|	N/A	|Tester's own network|
 ## 📊 Execution Summary
- |**PHASE**            |**TOOLS**   |**STATUS**     |
- |---------------------|------------|-------------- |
- |External Footprinting│ 6 Kali Tools│  ✅ COMPLETE | 
- │  OSINT Correlation  | Harvester   │  ✅ COMPLETE │
- │  Network Discovery  │  Zenmap     │  ✅ COMPLETE │
- │  Reporting          │Final Report │  ✅ COMPLETE │
+ |**PHASE**|**TOOLS**|**STATUS**|
+ |---------|---------|--------- |
+ |External Footprinting|6 Kali Tools|✅ COMPLETE 
+  OSINT Correlation |Harvester|✅ COMPLETE 
+  Network Discovery|Zenmap|✅ COMPLETE 
+  Reporting |Final Report|✅ COMPLETE 
 
 OVERALL ENGAGEMENT STATUS: ✅ 100% COMPLETE 
 ## 🏁 Lessons Learned
